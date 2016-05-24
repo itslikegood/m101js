@@ -1,0 +1,11 @@
+{
+  "name": "m101js",
+  "version": "1.0.0",
+  "description": "Class project for MongoDB for Node.js Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joey Vargas",
+  "license": "ISC"
+}
